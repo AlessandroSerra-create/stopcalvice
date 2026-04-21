@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Video sorgente (pesante, non serve in produzione)
+../stopcalvice.mp4
+stopcalvice.mp4
+
+# Frame originali NON upscalati (usiamo solo frames-upscaled)
+assets/frames/
